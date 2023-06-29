@@ -1,0 +1,107 @@
+PAPER ID,PAPER TITLE,AUTHOR,PUBLICATION TYPE,YEAR,PUBLISHER,CITATION COUNT
+PS1,"Biographies, bollywood, boom-boxes and blenders: Domain adaptation for sentiment classification",Blitzer et al.,journal,2007,ACL anthology,2764
+PS2,DRI-RCNN: An approach to deceptive review identification using recurrent convolutional neural network,Zhang et al.,journal,2018,Elsevier,93
+PS3,Spammer detection and fake user identification on social networks,Masood et al.,journal,2019,IEEE,80
+PS4,A REAL AND ACCURATE FAKE PRODUCT DETECTION SYSTEM AND GENERATE ORIGINAL REVIEWS USING DATA MINING MECHANISM,SASANK et al.,journal,2020,Springer,1
+PS5,FILTERING FAKE PRODUCT REVIEWS BY USING n GRAM APPROACH,Padmapriya et al.,journal,2020,Mukt Shabd Journal,
+PS6,Eliminating products’ fake reviews using network parameters and geo location,Raja et al.,conference,2020,IOP Publishing,4
+PS7,Fake Contextual Information Detection And Removal In E-Commerce Applications,Arthi et al.,journal,2022,IJRES,0
+PS8,CoSpa: A co-training approach for spam review identification with support vector machine,Zhang et al.,journal,2016,MDPI,27
+PS9,Fake Product Review Monitoring and Removal For E-commerce,Girnale et al.,journal,2022,IJRES,0
+PS10,Online Product Review Monitoring System Using Machine Learning,Johnson et al.,journal,2022,Springer,0
+PS11,Fake Product Review Monitoring and Removal For Genuine Online Shopping,Priyanka et al.,journal,2022,IJRASET,0
+PS12,Product Review Monitoring System by Machine Learning,Darekar et al.,journal,2022,IRJMETS,0
+PS13,FAKE REVIEW DETECTION AND REPLACING IT WITH GENUINE ONES USING OPINION MINING,Geetha et al.,journal,2022,ResearchGate,0
+PS14,User-personalized review rating prediction method based on review text content and user-item rating matrix,Wang et al.,journal,2018,MDPI,11
+PS15,Fuzzy artificial bee colony-based CNN-LSTM and semantic feature for fake product review classification,Jacob et al.,journal,2022,Wiley Online Library,10
+PS16,Fake product review detection and removal using opinion mining through machine learning,Jacob et al.,conference,2020,Springer,6
+PS17,FAKE PRODUCT REVIEW MONITORING AND REMOVAL FOR GENUINE ONLINE REVIEWS USING IP FINDING AND GEO SPECIFICATION,Pokale et al.,journal,2020,IRJET,0
+PS18,Monitoring Product Fake Review for Genuine Rating,Chandra et al.,journal,2020,Guru Nanak Publications,0
+PS19,"Theorizing the textual differences between authentic and fictitious reviews: Validation across positive, negative and moderate polarities",Banerjee et al.,journal,2017,Emerald Publishing Limited,28
+PS20,"Authentic versus fictitious online reviews: A textual analysis across luxury, budget, and mid-range hotels",Banerjee et al.,journal,2017,"SAGE Publications Sage UK: London, England",29
+PS21,Fake or real? The computational detection of online deceptive text,Ball et al.,journal,2014,Springer,18
+PS22,A theoretical framework to identify authentic online reviews,Banerjee et al.,journal,2014,Emerald Publishing Limited,47
+PS23,Using named entities for computer-automated verbal deception detection,Kleinberg et al.,journal,2018,Wiley Online Library,45
+PS24,Detecting opinion spams through supervised boosting approach,Hazim et al.,journal,2018,Public Library of Science San Francisco,32
+PS25,Research of deceptive review detection based on target product identification and metapath feature weight calculation,Yuan et al.,journal,2018,Hindawi,11
+PS26,Justifying recommendations using distantly-labeled reviews and fine-grained aspects,Jianmo Ni et al.,conference,2019,ACL anthology,741
+PS27,What online reviewer behaviors really matter? Effects of verbal and nonverbal behaviors on detection of fake online reviews,Zhang et al.,journal,2016,Taylor & Francis,291
+PS28,Graph-based review spammer group detection,Wang et al.,journal,2018,Springer,92
+PS29,NetSpam: A network-based spam detection framework for reviews in online social media,Shehnepoor et al.,journal,2017,IEEE,162
+PS30,Detecting review manipulation on online platforms with hierarchical supervised learning,Kumar et al.,journal,2018,Taylor & Francis,152
+PS31,Detecting anomalous online reviewers: An unsupervised approach using mixture models,Kumar et al.,journal,2019,Taylor & Francis,63
+PS32,Collusive opinion fraud detection in online reviews: A probabilistic modeling approach,Xu et al.,journal,2017,ACM,8
+PS33,Spam Review Classification Using Ensemble of Global and Local Feature Selectors,Ansari et al.,journal,2018,Sciendo,2
+PS34,Opinion spam detection framework using hybrid classification scheme,Asghar et al.,journal,2020,Springer,68
+PS35,Detection of fake opinions using time series,Heydari et al.,journal,2016,Elsevier,120
+PS36,DETECTING DECEPTIVE REVIEW SPAMMERS BASED ON PSEUDO-SUPERVISED CLASSIFICATION,Wang et al.,journal,2016,ICIC Express Letters,1
+PS37,Image-based recommendations on styles and substitutes,McAuley et al.,conference,2015,ACM,2018
+PS38,Analysis of online customer reviews,Otto et al.,journal,2004,JBER,10
+PS39,"Comparative Analysis of Fake Review Monitoring and Detection using Logistic Regression, Decision Tree, Support Vector Machine",Adhikari et al.,journal,2022,SSRN,0
+PS40,Spotting fake reviews via collective positive-unlabeled learning,Li et al.,conference,2014,IEEE,245
+PS41,A framework for fake review detection: issues and challenges,Rout et al.,conference,2018,IEEE,21
+PS42,Intelligent interface for fake product review monitoring and removal,Danish et al.,conference,2019,IEEE,4
+PS43,"Data mining: Web data mining techniques, tools and algorithms: An overview",Mughal et al.,journal,2018,Science and Information (SAI) Organization Limited,114
+PS44,What yelp fake review filter might be doing?,Mukherjee et al.,conference,2013,AAAI,688
+PS45,Opinion mining based fake product review monitoring and removal system,Anas et al.,conference,2021,IEEE,14
+PS46,Fraud detection in online reviews using machine learning techniques,Shivagangadhar et al.,journal,2015,Academia,14
+PS47,A framework for fake review detection in online consumer electronics retailers,Barbado et al.,journal,2019,Elsevier,202
+PS48,Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering,He et al.,conference,2016,ACM,1822
+PS49,Creating and detecting fake reviews of online products,Salminen et al.,journal,2022,Elsevier,71
+PS50,Opinion spam and analysis,Jindall et al.,conference,2008,NTNU,1936
+PS51,Fake reviews detection: A survey,Mohawesh et al.,journal,2021,IEEE,54
+PS52,Review graph based online store review spammer detection,Wang et al.,conference,2011,IEEE,484
+PS53,Fake review detection: Classification and analysis of real and pseudo reviews,Mukherjee et al.,journal,2013,UIC,198
+PS54,Towards online anti-opinion spam: Spotting fake reviews from the review sequence,Lin et al.,conference,2014,IEEE,113
+PS55,Understanding the process of writing fake online reviews,Banerjee et al.,conference,2014,IEEE,22
+PS56,Reliability of reviews on the Internet: The case of TripAdvisor,Chua et al.,conference,2013,York,83
+PS57,Declarative programming approach for fake review detection,Jnoub et al.,conference,2020,IEEE,8
+PS58,Identify online store review spammers via social review graph,Wang et al.,journal,2012,ACM,242
+PS59,Finding deceptive opinion spam by any stretch of the imagination,Ott et al.,journal,2011,arXiv,1685
+PS60,Spotting opinion spammers using behavioral footprints,Mukherjee et al.,conference,2013,ACM,497
+PS61,Negative deceptive opinion spam,Ott et al.,conference,2013,ACL anthology,479
+PS62,Modeling consumer learning from online product reviews,Zhao et al.,journal,2013,INFORMS,274
+PS63,Simultaneously detecting fake reviews and review spammers using factor graph model,Lu et al.,conference,2013,ACM,73
+PS64,Spotting fake reviewer groups in consumer reviews,Mukherjee et al.,conference,2012,ACM,940
+PS65,Identification of fake reviews using new set of lexical and syntactic features,Dewang et al.,conference,2015,ACM,24
+PS66,Detecting product review spammers using rating behaviors,Lim et al.,conference,2010,ACM,962
+PS67,Text mining and probabilistic language modeling for online review spam detection,Lau et al.,journal,2012,ACM,278
+PS68,Exploiting product related review features for fake review detection,Sun et al.,journal,2016,Hindawi,62
+PS69,The impact of fake reviews on online visibility: A vulnerability assessment of the hotel industry,Lappas et al.,journal,2016,INFORMS,214
+PS70,Towards a general rule for identifying deceptive opinion spam,Li et al.,journal,2014,ACL anthology,396
+PS71,Detecting fake reviews through sentiment analysis using machine learning techniques,Elmurngi et al.,journal,2017,Academia,57
+PS72,Feature analysis for fake review detection through supervised classification,Fontanarava et al.,conference,2017,IEEE,63
+PS73,An empirical study on detecting fake reviews using machine learning techniques,Elmurngi et al.,conference,2017,IEEE,68
+PS74,Detection of online fake news using n-gram analysis and machine learning techniques,Ahmed et al.,conference,2017,Springer,526
+PS75,Behavioral analysis of review fraud: Linking malicious crowdsourcing to amazon and beyond,Kaghazgaran et al.,conference,2017,AAAI,32
+PS76,A survey on natural language processing for fake news detection,Oshikawa et al.,journal,2018,,291
+PS77,Towards automatic filtering of fake reviews,Cardoso et al.,journal,2018,Elsevier,99
+PS78,An enhanced graph-based semi-supervised learning algorithm to detect fake users on Twitter,Balaanand et al.,journal,2019,Springer,70
+PS79,Fake consumer review detection using deep neural networks integrating word embeddings and emotion mining,Hajek et al.,journal,2020,Springer,98
+PS80,"Fake online reviews: Literature review, synthesis, and directions for future research",Wu et al.,journal,2020,Elsevier,228
+PS81,Collective opinion spam detection: Bridging review networks and metadata,Rayana et al.,conference,2015,ACM,537
+PS82,SPR2EP: A semi-supervised spam review detection framework,Yilmaz et al.,conference,2018,IEEE,42
+PS83,GSLDA: LDA-based group spamming detection in product reviews,Wang et al.,journal,2018,Springer,67
+PS84,A framework for big data analytics in commercial social networks: A case study on sentiment analysis and fake review detection for marketing decision-making,Kauffmann et al.,journal,2020,Elsevier,155
+PS85,Data analytics for the identification of fake reviews using supervised learning,Alsubari et al.,journal,2022,CMC,116
+PS86,FAKE PRODUCT REVIEW MONITORING AND REMOVAL SYSTEM,Sameer et al.,journal,2022,IRJMETS,0
+PS87,Opinion fraud detection in online reviews by network effects,Akoglu et al.,conference,2013,AAAI,523
+PS88,More than words: The influence of affective content and linguistic style matches in online reviews on conversion rates,Ludwig et al.,journal,2013,SAGE Publications Sage CA,814
+PS89,Extending monitoring methods to textual data: A research agenda,Ashton et al.,journal,2014,Springer,33
+PS90,A study of the impact of social media on consumers,Hajli et al.,journal,2014,SAGE Publications Sage UK,1302
+PS91,Neural networks for deceptive opinion spam detection: An empirical study,Ren et al.,journal,2017,Elsevier,223
+PS92,Linguistic characteristics of shill reviews,Toan Ong et al.,journal,2014,Elsevier,63
+PS93,Taking fake online consumer reviews seriously,Malbon et al.,journal,2013,Springer,235
+PS94,Social media analysis for product safety using text mining and sentiment analysis,Isah et al.,conference,2014,IEEE,102
+PS95,Survey of review spam detection using machine learning techniques,Crawford et al.,journal,2015,SpringerOpen,456
+PS96,Finding potentially unsafe nutritional supplements from user reviews with topic modeling,Sullivan et al.,conference,2016,World Scientific,34
+PS97,Evaluating machine learning algorithms for bengali fake news detection,Mugdha et al.,conference,2020,IEEE,17
+PS98,Document representation and feature combination for deceptive spam review detection,Li et al.,journal,2017,Elsevier,141
+PS99,"A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities",Zhou et al.,journal,2020,Association for Computing Machinery,685
+PS100,Fake profile detection techniques in large-scale online social networks: A comprehensive review,Ramalingam et al.,journal,2018,Elsevier,119
+PS101,The importance of behavioral data to identify online fake reviews for tourism businesses: a systematic review,Reyes-Menendez et al.,journal,2019,PeerJ Inc.,91
+PS102,The Influence of Fake Reviews on Consumer Perceptions of Risks and Purchase Intentions.,Wu et al.,journal,2019,North American Business Press Inc,14
+PS103,Spotting and Removing Fake Product Review in Consumer Rating,Reddineelima et al.,journal,2019,Academia,
+PS104,Big Data and quality data for fake news and misinformation detection,Torabi et al.,journal,2019,SAGE Publications Sage UK,111
+PS105,Towards understanding and detecting fake reviews in app stores,Martens et al.,journal,2019,Springer,103
+PS106,Spam review detection using spiral cuckoo search clustering method,Pandey et al.,journal,2019,Springer,56
